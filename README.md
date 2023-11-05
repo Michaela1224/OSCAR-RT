@@ -1,6 +1,6 @@
 # OSCAR-RT
 
-This repository serves as the official code release of the paper [Algorithm/Hardware Codesign for Real-Time On-Satellite CNN-Based Ship Detection in SAR Imagery](https://ieeexplore.ieee.org/document/9739778) (pubilished at IEEE TGRS 2022).
+This repository serves as the official code release of the paper [Algorithm/Hardware Codesign for Real-Time On-Satellite CNN-Based Ship Detection in SAR Imagery](https://ieeexplore.ieee.org/document/9739778) (pubilished at IEEE Transactions on Geoscience and Remote Sensing 2022).
 
 Recently, the convolutional neural network (CNN) based approach for on-satellite ship detection in synthetic aperture radar (SAR) images has received increasing attention, since it does not rely on predefined imagery features and distributions that are required in conventional detection methods. To achieve a high detection accuracy, most of the existing CNN-based methods leverage complex off-the-shelf CNN models for optical imagery. Unfortunately, this usually leads to expensive computational cost, which is hard to process in real time using resource-constrained devices deployed in the harsh satellite environment. 
 
